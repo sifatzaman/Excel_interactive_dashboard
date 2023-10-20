@@ -65,7 +65,7 @@ Finally, this screen features a clustered bar chart highlighting the top 10 prod
 ### 8. Dispatch Order Userform
 
 <p align="center">
-  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen8.png" width="50%">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen8.PNG" width="50%">
 </p>
 
 The "Dispatch Order" feature allows users to update order dispatch instructions conveniently. This Userform opens upon clicking the "Dispatch Order" button and provides fields to input dispatch details, such as delivery dates and tracking information. Upon submission, the Userform updates the master data sheet with the dispatch information.
@@ -73,7 +73,7 @@ The "Dispatch Order" feature allows users to update order dispatch instructions 
 ### 9. Add New Order Userform
 
 <p align="center">
-  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen9.png" width="50%">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen9.PNG" width="50%">
 </p>
 
 The "Add New Order" feature enhances data input and streamlines the addition of new orders. Clicking the "Add New Order" button opens this Userform, where users can enter order details, including customer information, product, quantity, and pricing. The Userform ensures data consistency and appends the new order details to the master data sheet.
