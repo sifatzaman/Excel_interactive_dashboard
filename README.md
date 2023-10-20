@@ -1,6 +1,9 @@
 # Excel Dashboard: Sales Analysis for Superstore Dataset
 
-![Dashboard Screenshot](https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Dashboard.PNG)
+<p align="center">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Dashboard.PNG?raw=true" width="100%">
+</p>
+
 
 This repository contains an Excel dashboard that demonstrates my expertise in Excel data analysis and visualization. The dashboard is based on the [Superstore Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) from Kaggle. The dashboard provides insights into sales trends, shipping modes, product categories, geographic distribution, and more.
 
