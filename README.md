@@ -62,6 +62,23 @@ A clustered bar chart showcases the top 10 products based on revenue. Pivot tabl
 
 Finally, this screen features a clustered bar chart highlighting the top 10 products by the number of orders. Pivot tables enabled the data aggregation and visualization process.
 
+### 8. Dispatch Order Userform
+
+<p align="center">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen7.png" width="50%">
+</p>
+
+The "Dispatch Order" feature allows users to update order dispatch instructions conveniently. This Userform opens upon clicking the "Dispatch Order" button and provides fields to input dispatch details, such as delivery dates and tracking information. Upon submission, the Userform updates the master data sheet with the dispatch information.
+
+### 9. Add New Order Userform
+
+<p align="center">
+  <img src="https://github.com/sifatzaman/Excel_interactive_dashboard/blob/main/Screen7.png" width="50%">
+</p>
+
+The "Add New Order" feature enhances data input and streamlines the addition of new orders. Clicking the "Add New Order" button opens this Userform, where users can enter order details, including customer information, product, quantity, and pricing. The Userform ensures data consistency and appends the new order details to the master data sheet.
+
+
 ## Dynamic Filtering with Slicers
 
 The Excel dashboard includes interactive slicers that allow users to dynamically filter and analyze the data. There are three slicers in the dashboard:
@@ -75,6 +92,9 @@ The Excel dashboard includes interactive slicers that allow users to dynamically
 By utilizing these slicers, users can tailor their analysis and insights according to their preferences. The dynamic filtering capability enhances the dashboard's interactivity and usability, making it easy to explore different aspects of the data.
 
 The slicers were added using Excel's built-in slicer functionality and are connected to the relevant pivot tables and charts. This dynamic feature underscores my proficiency in Excel and highlights the actionable insights that can be derived from the data.
+
+
+
 
 ## Dataset
 
@@ -90,7 +110,8 @@ This project demonstrates my advanced skills in Excel, including:
 - Data-driven insights and analysis
 - Dashboard creation for comprehensive data presentation
 - Leveraging Excel functionalities for business intelligence
+- Using VBA Programming to achieve a certain level of Automation.
 
 Feel free to explore the dashboard and screenshots to gain insights into the capabilities of Excel for data analysis and visualization. If you have any questions or feedback, don't hesitate to reach out!
 
-Author: [Your Name]
+Author: Md. Bodruzzaman Sifat
